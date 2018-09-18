@@ -10,15 +10,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# include <stdio.h>
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+int main()
+{
+  printf("hello world\n");
+  return 0;
+}
 
 **Bold** and _Italic_ and `Code` text
 
