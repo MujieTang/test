@@ -1,8 +1,10 @@
 #include <stdio.h>
-void Init()
+void main(void)
 {
+  printf("hello world!, I learn the knowledge\n");
 	printf("-----------\n");
-    printf("----tmj----");
+  printf("----tmj----");
 	printf("-----------\n");
+  return;
 }
 
